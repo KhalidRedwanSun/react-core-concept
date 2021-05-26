@@ -1,0 +1,5 @@
+
+if npm doesnt work while installing react..search on google: 
+1.yarn
+or,
+2.code sandbox
